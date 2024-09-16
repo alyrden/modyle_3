@@ -9,7 +9,7 @@ def string_info(string: str):
 
 def is_contains(string: str, list_to_search: list):
     count_calls()
-    return string.lower() in [item.lower() for item in list_to_search]
+    return string.lower() in [i.lower() for i in list_to_search]
 
 print(string_info("Capybara"))
 print(string_info('Armageddon'))
