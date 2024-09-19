@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69df80a1-7527-4a55-893a-06723a1aacd5" name="Changes" comment="3">
-      <change afterPath="$PROJECT_DIR$/modyle_3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modyle_3.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modyle_3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/modyle_3.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
     "Python.modyle_3.1.executor": "Debug",
     "Python.modyle_3.2.executor": "Run",
     "Python.modyle_3.3.executor": "Run",
+    "Python.modyle_3.4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Python/modyle_2.3.py",
@@ -111,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726580972564</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3">
+      <option name="closed" value="true" />
+      <created>1726668689296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726668689296</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
